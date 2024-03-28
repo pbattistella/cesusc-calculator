@@ -1,0 +1,18 @@
+.img-logo {
+    width: 55px;
+    padding: 5px;
+}
+
+.container-form {
+    margin-top: 80px;
+    width: 40%;
+}
+
+.container-form h2 {
+   color: #cf2e2e;
+   background-color: #f8c7d3;
+   text-align: center;
+   margin-bottom: 80px;
+   border-radius: 5px;
+   padding: 10px;
+}
